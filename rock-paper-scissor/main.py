@@ -43,4 +43,6 @@ elif Player == "scissor":
 else:
     print("Wrong weapon!")
 
+print("Halo Guys!")
+
     
